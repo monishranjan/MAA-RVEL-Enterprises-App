@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "558644503541",
+    "firebase_url": "https://maarvel-enterprises-default-rtdb.firebaseio.com",
+    "project_id": "maarvel-enterprises",
+    "storage_bucket": "maarvel-enterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558644503541:android:309cbb640c8d9f3cef76bc",
+        "android_client_info": {
+          "package_name": "com.example.admin_maarvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558644503541-a2s1ngsfdv7ckquqt4qqein4sg2nljp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_maarvel",
+            "certificate_hash": "ea21443b4caf30c2197306d9d75618f8941f8a47"
+          }
+        },
+        {
+          "client_id": "558644503541-4eeuv7qnu81af8jfj7a1950g4ahqh1u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6CWLNiAnX2nna7kAVh0m4FXNkdQtfPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558644503541-4eeuv7qnu81af8jfj7a1950g4ahqh1u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558644503541-38siflbgn8u4m5hltiea0mbi4qob5gbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminMaarvel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558644503541:android:89da416710baa604ef76bc",
+        "android_client_info": {
+          "package_name": "com.example.maarvel_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558644503541-8enufdq0p7thc3g096q1j9i95md9gm92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maarvel_e",
+            "certificate_hash": "ea21443b4caf30c2197306d9d75618f8941f8a47"
+          }
+        },
+        {
+          "client_id": "558644503541-4eeuv7qnu81af8jfj7a1950g4ahqh1u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6CWLNiAnX2nna7kAVh0m4FXNkdQtfPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558644503541-4eeuv7qnu81af8jfj7a1950g4ahqh1u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558644503541-38siflbgn8u4m5hltiea0mbi4qob5gbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminMaarvel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
